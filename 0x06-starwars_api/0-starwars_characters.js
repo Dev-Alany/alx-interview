@@ -1,5 +1,6 @@
 #!/usr/bin/node
 
+// main fuction
 const request = require('request');
 
 const req = (arr, i) => {
